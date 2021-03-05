@@ -180,4 +180,4 @@
 	// if necessary (after migrating all new options from this file).
 
 	// vim:ft=php
-
+        define('_SKIP_SELF_URL_PATH_CHECKS', true);
